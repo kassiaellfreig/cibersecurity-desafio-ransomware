@@ -11,10 +11,8 @@ O projeto contém três arquivos principais:
 
 ## Como Usar
 
-**Criptografar:** Execute o script encrypter.py para criptografar o arquivo.
-    python encrypter.py
+**Criptografar:** Execute o script encrypter.py para criptografar o arquivo. (*python encrypter.py*)
     
-**Descriptografar:** Execute o script decrypter.py para restaurar o arquivo original.
-    python decrypter.py
+**Descriptografar:** Execute o script decrypter.py para restaurar o arquivo original. (*python decrypter.py*)
 
 #### Nota: Este projeto foi criado com fins educacionais para demonstrar técnicas básicas de criptografia e simular o funcionamento de um ransomware.
